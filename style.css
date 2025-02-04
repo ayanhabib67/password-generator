@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    background-color:black;
+}
+
+
+
+
+
+.tor{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    color:red;
+    font-size: 60px;
+}
+
+.nb{
+    display: flex;
+    justify-content: center;
+    /* padding-left:; */
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
