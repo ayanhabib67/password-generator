@@ -40,7 +40,7 @@ for  (let i = 0; i < len.value ; i++) {
     
 }
 
-console.log(password)
+document.write(password)
 
 
 }
